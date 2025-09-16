@@ -30,3 +30,5 @@ def right_path():
 
 if __name__ == "__main__":
     intro()
+
+# End of hero-path
